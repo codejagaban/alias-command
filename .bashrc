@@ -1,0 +1,16 @@
+
+#git alias to make my shitty life easy
+alias gcsm='git commit -s -m'
+alias gm='git commit -m'
+alias pull='git pull'
+alias push='git push'
+alias gs='git status -sb'
+alias gc='git checkout'
+alias gb='git branch'
+alias gline='git log --oneline'
+alias gcp='git cherry-pick'
+alias add='git add'
+alias addal='git add .'
+alias cf='STAGE_BACKEND=true yarn start'
+alias dev='yarn dev || yarn develop'
+alias clean='yarn clean'
