@@ -1,5 +1,4 @@
 
-#git alias to make my shitty life easy
 alias gcsm='git commit -s -m'
 alias gm='git commit -m'
 alias pull='git pull'
